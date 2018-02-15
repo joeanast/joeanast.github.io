@@ -1,7 +1,7 @@
 # Site
 title:          Joseph Anastacio
 bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+description:    "Welcome to my GitHub website!"
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://joeanast.github.io
@@ -34,7 +34,7 @@ facebook: joeanast
   #ad-slot:
 #bing-verify:
 github: joeanast
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin: username
 #xing: username
 #instagram: username
