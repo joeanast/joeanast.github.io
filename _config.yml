@@ -1,5 +1,5 @@
 # Site
-title:          JBlog
+title:          Joseph Anastacio
 bio:            'Just a simple Jekyll theme'
 description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
 picture:        'assets/img/profile.png'
@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+#twitter: username
+facebook: joeanast
 #google:
   #plus: #username
   #analytics:
@@ -33,18 +33,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
+github: joeanast
 stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+#linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+#instagram: username
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
@@ -57,7 +57,7 @@ youtube: username
 
 
 # Comments
-disqus_shortname: alperenbozkurt-net
+#disqus_shortname: alperenbozkurt-net
 
 
 # Gems
