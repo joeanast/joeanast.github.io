@@ -17,3 +17,4 @@ tag:
 
 For this part of my summer internship, I was tasked with creating a new theme for the Board. The website was already running on a content management system so I just needed to change the theme and update some of the content.
 
+![](/assets/img/pnsb.png)
